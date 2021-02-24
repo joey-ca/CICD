@@ -1,38 +1,134 @@
-.App {
-  text-align: center;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+ul#nav-left {
+	background-color: rgb(20, 60, 109);
+  position: fixed;
+  left: 0;
+  width: 2.2rem;
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul#nav-left li {
+	border-bottom: 1px solid rgb(13, 45, 82);
+	height: 2.2rem;
+	text-align: center;
+	line-height: 2.5rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#shape-icon {
+	background-color: rgb(13, 45, 82);
 }
 
-.App-link {
-  color: #61dafb;
+div#main {
+	float: right;
+	width: calc(100% - 2.2rem);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#main-top {
+	width: calc(100% - 2.2rem);
+	height: 2.2rem;
+	position: fixed;
+	top: 0;
+	right: 0;
+	display: flex;
+	align-items: center;
+	background-color: rgb(22, 108, 190);
+	filter: drop-shadow(3px 4px 2px rgb(203, 206, 215));
+	-webkit-filter: drop-shadow(3px 4px 2px rgb(203, 206, 215));
 }
+
+h3 {
+	color: #fff;
+	margin: 0;
+	font-size: .9rem;
+	margin-left: 3.5rem;
+}
+
+ul#nav-top {
+	margin-left: auto;
+	display: flex;
+	align-items: center;
+}
+
+ul#nav-top li {
+	margin-right: 1.5rem;
+}
+
+#login-status {
+	color: rgb(122, 172, 217);
+	font-size: .7rem;
+	font-weight: 700;
+	margin-right: .75rem !important; 
+}
+
+#slider-icon {
+	border-left: 1px solid rgb(122, 172, 217);
+	padding-left: .75rem;
+}
+
+.bi-sliders,
+.bi-printer,
+.bi-question-circle,
+.bi-box-arrow-right {
+	margin-top: .2rem;
+}
+
+h4 {
+	width: 70%;
+	margin: 4.2rem auto .5rem auto;
+	font-weight: 300;
+	font-size: 1.1rem;
+	color: dimgray;
+}
+
+#heading-bg {
+	/*background-color: rgb(215, 215, 215);*/
+	background-color: gainsboro;
+	height: 2.7rem;
+	margin-bottom: 2rem;
+}
+
+#heading {
+	width: 70%;
+	height: 2.7rem;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+}
+
+h5 {
+	display: inline;
+	margin-left: .5rem;
+	font-weight: 300;
+	font-size: 1.3rem;
+	color: dimgray;
+}
+
+.bi-pin {
+	margin-left: auto;
+}
+
+main {
+	width: 70%;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
