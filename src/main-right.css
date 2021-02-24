@@ -1,0 +1,16 @@
+#main-right {
+	width: 58%;
+}
+
+#button-group {
+	margin-bottom: 5rem;
+}
+
+#button-group>span {
+	font-weight: 300;
+	font-size: 1.1rem;
+	color: dimgray;
+	margin-right: 1.2rem;
+	display: inline-block;
+	width: 12.1rem;
+}

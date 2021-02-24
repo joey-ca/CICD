@@ -1,0 +1,33 @@
+#filter-wrapper {
+	width: 55%;
+	height: 4rem;
+	margin-bottom: 3rem;
+}
+
+#filter-title {
+	font-size: .8rem;
+	color: dimgray;
+	font-stretch: condensed;
+}
+
+#filter-title+div {
+	border: 1px solid gainsboro;
+	border-radius: 6px;
+	padding: 1rem;
+	margin-top: .4rem;
+}
+
+#filter-title+div>div {
+	display: flex;
+	align-items: center;
+}
+
+#filter-1 {
+	margin-bottom: .5rem;
+}
+
+#filter-title+div>div>span {
+	font-size: .7rem;
+	margin: 0 .5rem;
+	color: dimgray;
+}

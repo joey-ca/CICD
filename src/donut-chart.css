@@ -1,0 +1,41 @@
+div.donut-chart-wrapper {
+	border: 1px solid rgb(215, 215, 215);
+	text-align: center;
+	padding: .5rem;
+	border-radius: 3px;
+}
+
+div.donut-chart-wrapper:hover {
+	cursor: pointer;
+}
+
+div.donut-chart-wrapper>a {
+	text-decoration: none;
+}
+
+div.donut-chart-wrapper>a:focus {
+	outline: none;
+}
+
+svg.donut-chart {
+	width: 90px;
+	height: 130px;
+}
+
+.text0 {
+	font-size: .7rem;
+}
+
+.text1 {
+	font-size: .8rem;
+}
+
+.text2 {
+	fill: dimgray;
+	font-size: .5rem;
+}
+
+.text3 {
+	fill: dimgray;
+	font-size: .6rem;
+}
