@@ -17,6 +17,7 @@ export default function MainLeft(props){
 				<DonutChart data={props.data} id={4} change={props.change} />
 				<DonutChart data={props.data} id={5} change={props.change} />
 			</div>
+			<span>2</span>
 		</div>
 	);
 }
