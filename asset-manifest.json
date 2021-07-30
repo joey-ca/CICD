@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/diagnostic-tool/static/css/main.b0441cf1.chunk.css",
+    "main.js": "/diagnostic-tool/static/js/main.4a2dc544.chunk.js",
+    "main.js.map": "/diagnostic-tool/static/js/main.4a2dc544.chunk.js.map",
+    "runtime-main.js": "/diagnostic-tool/static/js/runtime-main.20f37e80.js",
+    "runtime-main.js.map": "/diagnostic-tool/static/js/runtime-main.20f37e80.js.map",
+    "static/js/2.eef68308.chunk.js": "/diagnostic-tool/static/js/2.eef68308.chunk.js",
+    "static/js/2.eef68308.chunk.js.map": "/diagnostic-tool/static/js/2.eef68308.chunk.js.map",
+    "static/js/3.bc6e6460.chunk.js": "/diagnostic-tool/static/js/3.bc6e6460.chunk.js",
+    "static/js/3.bc6e6460.chunk.js.map": "/diagnostic-tool/static/js/3.bc6e6460.chunk.js.map",
+    "index.html": "/diagnostic-tool/index.html",
+    "static/css/main.b0441cf1.chunk.css.map": "/diagnostic-tool/static/css/main.b0441cf1.chunk.css.map",
+    "static/js/2.eef68308.chunk.js.LICENSE.txt": "/diagnostic-tool/static/js/2.eef68308.chunk.js.LICENSE.txt",
+    "static/media/arrow-clockwise.33f40a35.svg": "/diagnostic-tool/static/media/arrow-clockwise.33f40a35.svg",
+    "static/media/box-arrow-in-down.50abf7ba.svg": "/diagnostic-tool/static/media/box-arrow-in-down.50abf7ba.svg",
+    "static/media/box-arrow-right.63d43e41.svg": "/diagnostic-tool/static/media/box-arrow-right.63d43e41.svg",
+    "static/media/columns-gap.15689220.svg": "/diagnostic-tool/static/media/columns-gap.15689220.svg",
+    "static/media/envelope-fill.73a0ceaa.svg": "/diagnostic-tool/static/media/envelope-fill.73a0ceaa.svg",
+    "static/media/globe.ea144cf7.svg": "/diagnostic-tool/static/media/globe.ea144cf7.svg",
+    "static/media/info-circle-fill.a10025f4.svg": "/diagnostic-tool/static/media/info-circle-fill.a10025f4.svg",
+    "static/media/pin-fill.8665d5f2.svg": "/diagnostic-tool/static/media/pin-fill.8665d5f2.svg",
+    "static/media/pin.9096a6d3.svg": "/diagnostic-tool/static/media/pin.9096a6d3.svg",
+    "static/media/printer.aac338c6.svg": "/diagnostic-tool/static/media/printer.aac338c6.svg",
+    "static/media/question-circle.e361a634.svg": "/diagnostic-tool/static/media/question-circle.e361a634.svg",
+    "static/media/reception-4.4a814438.svg": "/diagnostic-tool/static/media/reception-4.4a814438.svg",
+    "static/media/sliders.42061cc9.svg": "/diagnostic-tool/static/media/sliders.42061cc9.svg",
+    "static/media/square-fill-2.f98ad720.svg": "/diagnostic-tool/static/media/square-fill-2.f98ad720.svg",
+    "static/media/square-fill.31b63875.svg": "/diagnostic-tool/static/media/square-fill.31b63875.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20f37e80.js",
+    "static/js/2.eef68308.chunk.js",
+    "static/css/main.b0441cf1.chunk.css",
+    "static/js/main.4a2dc544.chunk.js"
+  ]
+}
